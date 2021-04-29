@@ -1,0 +1,11 @@
+export { default as Header } from './header'
+export { default as Footer } from './footer'
+export { default as MobileNav } from './mobilenav'
+export { default as Carousel } from './carousel'
+export { default as Slider } from './slider'
+export { default as OurPromise } from './ourpromise'
+export { default as MostPopular } from './mostpopular'
+export { default as InfoSection } from './infosection'
+export { default as ParallaxSection } from './parallaxsection'
+export { default as ReviewSection } from './reviewsection'
+
